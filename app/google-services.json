@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78464214082",
+    "firebase_url": "https://journeyjournal-f4d2b-default-rtdb.firebaseio.com",
+    "project_id": "journeyjournal-f4d2b",
+    "storage_bucket": "journeyjournal-f4d2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78464214082:android:c1f560cfcb8943323679db",
+        "android_client_info": {
+          "package_name": "com.example.journeyjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78464214082-2gstv0onb8sjlocd8goeqgcr5hltdf8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb0TjkoWPFAW_YJ7GM1APGFcvnaYCcZFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78464214082-2gstv0onb8sjlocd8goeqgcr5hltdf8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

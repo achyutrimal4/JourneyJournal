@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JourneyJournal</string>
+    <string name="login_tagline">Capture your journey.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">Not an user? Register</string>
+    <string name="logo_desc">Journey Journal app logo</string>
+    <string name="register_tagline">Start your journey.</string>
+    <string name="email">Email</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="phone_number">Phone number</string>
+    <string name="btnRegister">Register</string>
+    <string name="login_link">Already an user? Login</string>
+    <string name="image_title">Image title</string>
+
+</resources>
